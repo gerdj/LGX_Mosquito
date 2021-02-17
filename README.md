@@ -1,6 +1,6 @@
 ## LGX Mosquito printhead V1.0 (G.Jentz 17.02.2021)
 
-The LGX Mosquito printhead is only compatible with Bear X axis (8mm rods) and genuine Mosquito hotend (regular or magnum).<br>
+The LGX Mosquito printhead is only compatible with Bear MK3s X-axis (8mm rods) and genuine Mosquito hotend (regular or magnum).<br>
 There is no filament sensor!
 
 Bondtech recommends E-steps for the LGX set to 400/800 (16/32 microstepping).
