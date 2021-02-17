@@ -1,7 +1,9 @@
 ## LGX Mosquito printhead V1.0 (G.Jentz 17.02.2021)
 
 The LGX Mosquito printhead is only compatible with Bear X axis (8mm rods) and genuine Mosquito hotend (regular or magnum).
+
 There is no filament sensor!
+
 Bondtech recommends E-steps set to 400/800 (16/32 microstepping).
 
 Print settings, PETG (ABS for fan duct), 0.2mm layer height, 4 perimeters, 5 layers for bottom and top, min. 20% Gyroid infill, no supports.
