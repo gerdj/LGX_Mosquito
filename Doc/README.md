@@ -1,0 +1,1 @@
+## LGX Mosquito printhead nuts and bolts
