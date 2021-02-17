@@ -7,7 +7,7 @@ Bondtech recommends E-steps for the LGX set to 400/800 (16/32 microstepping).
 
 Print settings, PETG (ABS for fan duct), 0.2mm layer height, 4 perimeters, 5 layers for bottom and top, min. 20% Gyroid infill, no supports.
 
-Check the PDF Doc-section for nuts and bolts. 
+Check the PDF Doc-section for nuts and bolts. <br>
 Designed for M3 brass heat set inserts with D=4.6mm, L=5.7mm
 
 Only for experienced users! Use at your own risk!
